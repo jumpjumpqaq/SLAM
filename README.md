@@ -3,6 +3,7 @@
 - 🌱 我最近在学摸鱼
 - 💞️ 我打算现在开始创建一个关于SLAM学习的github上的项目
 - 📫 我的谷歌邮箱是wenwangtao1208@gmail.com
+- 这是我的第一个github项目，还不太清楚怎么使用
 
 <!---
 jumpjumpqaq/jumpjumpqaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
